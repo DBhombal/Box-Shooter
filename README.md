@@ -1,11 +1,10 @@
 # Box-Shooter
 Unity Based Shooter Game - Intro to Game Development, by Michigan State University
+
 I Created this as a part of an online game development course by Michigan State University.
 
 All assets and code were provided and/or part of the course by Michigan State University.
-
 This is only being uploaded to showcase my familiarity with the Unity Game engine.
-
 All credits go to Michigan State University for creating the course and all provided materials.
 
 _________________________________________________________________________________________________
